@@ -1,6 +1,6 @@
 # Real\_Estate
 
-**Video Demo:** [Watch on YouTube](https://youtube.com/shorts/F9rc4UuVGCE?si=zPwanMRcheG2WxOn)
+**Video Demo:** [Watch on YouTube]()
 
 This is a **Next.js** project bootstrapped using [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). The project is designed to showcase a modern real estate web application that allows users to browse property listings, view detailed information about each property, and experience a smooth, interactive interface. It demonstrates the capabilities of Next.js for building fast, SEO-friendly, and responsive web applications.
 
